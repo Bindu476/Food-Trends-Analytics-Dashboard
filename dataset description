@@ -1,0 +1,49 @@
+## 📂 Dataset Description
+
+The project uses the **Enhanced Food Data** dataset, which contains customer demographic information, food preferences, nutritional details, and social media engagement metrics. The dataset is designed to analyze food consumption patterns, customer behavior, nutrition trends, and the influence of social media on food popularity.
+
+### Dataset Information
+
+- **Total Records:** ~1,240
+- **Data Type:** Structured Tabular Dataset
+- **Domain:** Food Analytics, Customer Analytics, Social Media Analytics
+- **Format:** Excel (.xlsx)
+
+### Key Features
+
+| Feature | Description |
+|----------|-------------|
+| User_ID | Unique user identifier |
+| Age | Customer age |
+| Age_Group | Teen, Young Adult, Adult, Senior |
+| Gender | Customer gender |
+| Platform | Social media platform used |
+| Food_Item | Preferred food item |
+| Category | Food category (Healthy, Balanced, Fast Food) |
+| Calories | Calorie content |
+| Protein_g | Protein content (grams) |
+| Nutrition_Score | Health score of food item |
+| Likes | Number of likes |
+| Comments | Number of comments |
+| Shares | Number of shares |
+| Saves | Number of saves |
+| Views | Total content views |
+| IJE | Engagement Index Score |
+| Location | Customer location |
+| Date | Activity date |
+
+### Dataset Purpose
+
+The dataset enables:
+
+- Customer Preference Analysis
+- Food Category Analysis
+- Nutrition Analytics
+- Social Media Engagement Analysis
+- Demographic Analysis
+- Trend Identification
+- Business Intelligence Reporting
+
+### Business Value
+
+By combining food, nutrition, demographic, and engagement data, the dataset helps identify popular food categories, understand customer behavior, evaluate nutritional trends, and measure the impact of social media engagement on food preferences. These insights support data-driven business decisions and marketing strategies.
